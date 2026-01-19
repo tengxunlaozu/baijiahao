@@ -1,7 +1,10 @@
 // ==UserScript==
 // @name         屏蔽百度搜索百家号文章
+// @website      https://225336.xyz
+// @source       https://github.com/tengxunlaozu/baijiahao
 // @namespace    https://github.com/tengxunlaozu/baijiahao
-// @version      2.0
+// @support      https://github.com/tengxunlaozu/baijiahao/issues
+// @version      2.1
 // @description  屏蔽百家号文章
 // @author       tengxunlaozu
 // @match        *://www.baidu.com/*
@@ -69,3 +72,4 @@
   });
 
 })();
+
