@@ -4,7 +4,7 @@
 // @source       https://github.com/tengxunlaozu/baijiahao
 // @namespace    https://github.com/tengxunlaozu/baijiahao
 // @support      https://github.com/tengxunlaozu/baijiahao/issues
-// @version      2.1
+// @version      3.0
 // @description  屏蔽百家号文章
 // @author       tengxunlaozu
 // @match        *://www.baidu.com/*
@@ -111,3 +111,4 @@
   observer.observe(document.body, { childList: true, subtree: true });
 
 })();
+
